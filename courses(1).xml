@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+   <student>
+      <firstname>alok</firstname>
+      <lastname>choudhary</lastname>
+      <nickname>jack</nickname>
+      <marks>81</marks>
+   </student>
+   <student>
+       <firstname>umang</firstname>
+       <lastname>patel</lastname>
+       <nckname>babu</nckname>
+       <marks>90</marks>
+   </student>
+</class>
